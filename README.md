@@ -32,4 +32,4 @@
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ujjwal-chaturvedi-937a40271/) 
 - 📧 Email: ujjwal99355@gmail.com  
-- 🌐 Portfolio (Coming Soon)
+- 🌐 [Portfolio](https://ujjwalportfolioz.netlify.app/)
